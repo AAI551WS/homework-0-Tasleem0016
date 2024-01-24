@@ -13,7 +13,10 @@ print("Hello, World!")
 
 def add(a,b):
 
-    # Write simple code to add variable a and b
+   """
+   adds two values a and b
+   """
+    # Code to add a and b
     output = a + b
 
     return output
